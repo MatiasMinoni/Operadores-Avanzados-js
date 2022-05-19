@@ -1,0 +1,23 @@
+body {
+  background-color: bisque;
+  font-family: 'Lobster', cursive;
+  /* imagen */
+  background-image: url(../img/grieta.jpg); }
+
+img {
+  width: 100%;
+  height: 100%; }
+
+.hud {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  text-align: center; }
+
+.col-sm {
+  width: 20%; }
+
+.hud_champ {
+  font-size: x-large;
+  background-color: gray;
+  color: white; }
